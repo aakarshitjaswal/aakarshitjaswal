@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aakarshitjaswal
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning swift and swift UI
+- 👀 I’m interested in iOS development.
+- 🌱 I’m currently learning Swift & UIKit.
 - 📫 Reach me @ aakarshitjaswal@gmail.com
 
 <!---
